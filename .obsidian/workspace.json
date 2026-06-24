@@ -11,14 +11,14 @@
             "id": "999b59ca400b1166",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "测测试/测试.md",
-                "mode": "source",
-                "source": false
+                "aFile": "测测试/测试.md",
+                "bFile": "测测试/测试.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "测试"
+              "icon": "diff",
+              "title": "Diff: 测试  (Working Tree)"
             }
           }
         ]
@@ -226,8 +226,8 @@
   },
   "active": "999b59ca400b1166",
   "lastOpenFiles": [
-    "工作周报/2026-W25-工作周报.md",
     "测测试/测试.md",
+    "工作周报/2026-W25-工作周报.md",
     "测测试",
     "工作周报/2026-W26-工作周报.md",
     "未命名.base",
