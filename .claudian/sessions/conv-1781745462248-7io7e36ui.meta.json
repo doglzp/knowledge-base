@@ -1,0 +1,25 @@
+{
+  "id": "conv-1781745462248-7io7e36ui",
+  "providerId": "codex",
+  "title": "Greet user in Chinese",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781745462249,
+  "updatedAt": 1781745628334,
+  "lastResponseAt": 1781745618719,
+  "sessionId": "019ed84e-4078-7422-a054-e9a89751f057",
+  "providerState": {
+    "threadId": "019ed84e-4078-7422-a054-e9a89751f057",
+    "sessionFilePath": "C:\\Users\\win\\.codex\\sessions\\2026\\06\\18\\rollout-2026-06-18T09-17-47-019ed84e-4078-7422-a054-e9a89751f057.jsonl",
+    "transcriptRootPath": "C:\\Users\\win\\.codex\\sessions"
+  },
+  "usage": {
+    "inputTokens": 12853,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 4992,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 12853,
+    "percentage": 5,
+    "model": "gpt-5.5"
+  }
+}

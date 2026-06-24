@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782270164872-1hswr4utd",
+  "providerId": "claude",
+  "title": "Compile weekly git changes for two project folders",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782270164872,
+  "updatedAt": 1782270814438,
+  "lastResponseAt": 1782270814438,
+  "sessionId": "f6ae2442-8f91-40eb-b78c-b5124aae05ac",
+  "providerState": {
+    "providerSessionId": "f6ae2442-8f91-40eb-b78c-b5124aae05ac"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 74641,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 74641,
+    "percentage": 37,
+    "contextWindowIsAuthoritative": true
+  }
+}
